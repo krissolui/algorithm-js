@@ -31,3 +31,6 @@
         -   Bellman-Ford Algorithm
             -   Can handle negative-weighted graphs
             -   Worst case time complexity -> O(n^2)
+-   Dynamic Programming
+    -   Cache calculated results
+    -   Might bring time complexity of recursive functions from O(2^n) to O(n)
